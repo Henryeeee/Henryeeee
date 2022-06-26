@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @Henryeeee
-- 👀 I’m interested in python
-     I would post my own python code in my spare time.
-     Hope you like it.
-- 👋你好，我是 @Henryeeee
-- 👀我对python很感兴趣
-  我会在课余时间贴出自己写的python代码。
-  希望各位喜欢。
+- Hello everyone, I am Henryeeee, a python compiler from China, usually like to write a few program or game, if there is anything wrong with the code, please point it out more.
+- 大家好，我是Henryeeee，一个来自中国的python编译者，平时喜欢写几个程序或游戏，如果代码有什么问题，请多指出来。
